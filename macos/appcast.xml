@@ -3,12 +3,12 @@
     <channel>
         <title>LucidClip</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Sun, 01 Feb 2026 14:04:23 -0500</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Sun, 01 Feb 2026 16:17:13 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://downloads.lucidclip.app/LucidClip-v1.0.0.dmg" length="42395559" type="application/octet-stream" sparkle:edSignature="XYCOQkFMRNIjlyg1gJrepc7I8MQL6jCcs/8rHPdDWJdwInMpUMTOqWa4xlyd4gg62oDF+d7e5Kt3PFEtWDIjDQ=="/>
+            <enclosure url="https://downloads.lucidclip.app/LucidClip-v1.0.1.dmg" length="42080707" type="application/octet-stream" sparkle:edSignature="BD7b/u64CqXMF3pjoXoTnLchiQSIYbqAzv2F7OIAdngUg1pSmkwOPQE99me9540M64oHo/M6eOm2G/368cNZCw=="/>
         </item>
     </channel>
 </rss>
