@@ -6,9 +6,9 @@
             <title>1.0.1</title>
             <pubDate>Sun, 01 Feb 2026 16:17:13 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://downloads.lucidclip.app/LucidClip-v1.0.1.dmg" length="42080707" type="application/octet-stream" sparkle:edSignature="BD7b/u64CqXMF3pjoXoTnLchiQSIYbqAzv2F7OIAdngUg1pSmkwOPQE99me9540M64oHo/M6eOm2G/368cNZCw=="/>
+            <enclosure url="https://downloads.lucidclip.app/macos/LucidClip-v1.0.2.dmg" length="42094740" type="application/octet-stream" sparkle:edSignature="3YqCgJkNs4AIqaaGFC08RxcrMJCpw0eJuYV8SvfvYRh5ziIkwfpsu6fWubEzGq/vstuuX1v5nSVzt8Qki7CjBQ=="/>
         </item>
     </channel>
 </rss>
